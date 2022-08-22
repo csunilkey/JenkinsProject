@@ -1,7 +1,7 @@
 ---
 applications:
 - name: Jenkins-001
-  path: target/Jenkins-001-0.0.1-SNAPSHOT.war
+  path: Jenkins-001/target/Jenkins-001-0.0.1-SNAPSHOT.war
   random-route: true
   memory: 1024M
   buildpacks:
